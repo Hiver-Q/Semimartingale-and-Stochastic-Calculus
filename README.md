@@ -1,0 +1,1 @@
+Due to the many ambiguities in the pdf version of Semimartingale and Stochastic Calculus, as well as the fact that I'm doing my own reading study of the book, I'm reprinting and annotating the notes using latex.
